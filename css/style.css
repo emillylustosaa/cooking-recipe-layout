@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+
+#quemsomos{
+  background: #F79D65;
+  background-image: url("../img/background.jpg");
+  color: #f9f9f9;
+  height: 400px;
+}
+
+#receitas{
+  background-image: url("../img/receitas.jpg");
+  background: #742727;
+  height: 1fr;
+}
